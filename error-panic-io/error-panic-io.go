@@ -26,7 +26,7 @@ func main() {
 
 	os.WriteFile("output.txt", []byte(outputStr), 0644)
 	fmt.Print(outputStr)
-	
+
 }
 
 func getUserInput(input string) (float64, error) {
