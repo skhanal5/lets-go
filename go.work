@@ -7,4 +7,5 @@ use (
     ./error-panic-io
     ./structs
     ./interfaces-generics
+    ./arrays-slices
 )
