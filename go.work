@@ -6,4 +6,5 @@ use (
     ./control-statements
     ./error-panic-io
     ./structs
+    ./interfaces-generics
 )
