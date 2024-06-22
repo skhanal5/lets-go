@@ -10,4 +10,5 @@ use (
     ./arrays-slices
     ./concurrency
     ./price-calculator
+    ./rest-api
 )
