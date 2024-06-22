@@ -8,4 +8,6 @@ use (
     ./structs
     ./interfaces-generics
     ./arrays-slices
+    ./concurrency
+    ./price-calculator
 )
